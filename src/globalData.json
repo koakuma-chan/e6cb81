@@ -1,0 +1,10 @@
+[
+  {
+    "label": "ActionProperties",
+    "values": ["Property1", "Property2", "Property3"]
+  },
+  {
+    "label": "Client Organisation Properties",
+    "values": ["Property1", "Property2", "Property3"]
+  }
+]
