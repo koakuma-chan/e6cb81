@@ -22,7 +22,7 @@ bun run vite dev
 
 Global data sources can be configured in the `src/globalData.json` file.
 
-Other types of data sources can be implemented by making changes to [these few lines of code](https://github.com/koakuma-chan/e6cb81/blob/8bfb63d31c9dcf8b44e20fc3c2ff954e739f2a5b/src/components/ActionBlueprintFlowPrefillDataElementSelectionDialog.tsx#L52).
+Other types of data sources can be implemented by making changes to [these few lines of code](https://github.com/koakuma-chan/e6cb81/blob/c2b91f8a9a6d549fb46e693d73597db366eb889e/src/components/ActionBlueprintFlowPrefillDataElementSelectionDialog.tsx#L48).
 
 # Demo
 
